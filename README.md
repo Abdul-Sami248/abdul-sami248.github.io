@@ -12,7 +12,7 @@
 
 ### 🔬 Experience
 
-**Molecular Biotechnology & Bioinformatics Intern** — NIBGE, Faisalabad *(Jul 2026 – Aug 2026)*
+**Molecular Biotechnology & Bioinformatics Intern** — NIBGE, Faisalabad
 - DNA/RNA extraction (CTAB, TRIzol) from plant and wheat root tissue
 - Gene cloning & transformation: vector construction, digestion, electroporation
 - SDS-PAGE gel preparation for protein profiling
