@@ -14,9 +14,7 @@
 
 ---
 
-### 🎓 Education
-**Bachelor of Agricultural Biotechnology** — University of Agriculture, Faisalabad, Pakistan
-*Sep 2023 – Sep 2027 (7th Semester)*
+
 
 ---
 
@@ -35,7 +33,7 @@
 
 ---
 
-### 📚 Academic & Workshops
+###  Workshops
 - **Online Bioinformatics Workshop** — sequence analysis, AI-based protein structure prediction, protein–drug interaction, and hands-on bioinformatics tools
 
 ---
