@@ -2,15 +2,7 @@
 <h1 align="center">Hi, I'm Abdul Sami 👋</h1>
 <h3 align="center">Agricultural Biotechnology Student | Molecular Biology & Bioinformatics Enthusiast</h3>
 
-<p align="center">
-  <a href="mailto:abdulsami24820@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Abdul-Sami248">
-    <img src="https://img.shields.io/badge/GitHub-Abdul--Sami248-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Phone-%2B92--328--6831485-25D366?style=flat&logo=whatsapp&logoColor=white" />
-</p>
+
 
 ---
 
