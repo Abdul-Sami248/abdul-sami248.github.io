@@ -47,4 +47,4 @@ Chess · Badminton · Computer Gaming
 
 ---
 
-<p align="center"><i>Open to opportunities in molecular biology, bioinformatics, and biotech research.</i></p>
+<p align="center"><i>Open to opportunities in molecular biology, bioinformatics and biotech research.</i></p>
